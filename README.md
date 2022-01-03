@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @patrick-muonspace
+- 👀 I’m interested in satellite avionics
+- 🌱 I’m currently learning about [Careful COTS](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=2934&context=smallsat)
+- 💞️ I’m looking to collaborate on small spacecraft designs
+- 📫 How to reach me: patrick@muonspace.com
